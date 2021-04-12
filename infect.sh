@@ -32,7 +32,8 @@ X  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
-                         noobhackers
+                         @Codelonizer
+                         @Blogster Moses
 '|lolcat
 echo " " 
 
